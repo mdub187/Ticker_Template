@@ -1,4 +1,3 @@
-{
   # Title
   Python Ticker Template
   # Desription
@@ -18,4 +17,3 @@
   # Email
   maweeks.91@gmail.com
   #
-  }
