@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 __pycache__/
-.DS_Store
-=======
 .DS_Store
 .zed/*
 .idea/*
->>>>>>> 93bd351 (added .gitignore)
